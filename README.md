@@ -1,1 +1,1 @@
-# LlamaDocRetriever
+# MedVisionAnalyst
