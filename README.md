@@ -2,6 +2,7 @@
 
 <img align="center" src="https://miro.medium.com/v2/resize:fit:1358/1*RA_71cD_4Uopb3yZpSQu8A.gif" width="1050">
 
+![MedAnalyst](https://github.com/Naif-Ganadily/MedVisionAnalyst/assets/103202628/808b571a-46e0-458a-9dc6-43754f2bdad1)
 
 
 ## 📖 Description
